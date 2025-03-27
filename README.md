@@ -27,5 +27,5 @@ Este projeto consiste em um formulário que envia um JSON contendo informações
         "Lucas",
         "Thatyanne"
     ],
-    "message": "Oi pessoal, sou o Gustavo, e sou o coordenador no curso de Full Stack! …"
+    "message": "Oi, somos os ganhadores do desafio hehe"
 }
