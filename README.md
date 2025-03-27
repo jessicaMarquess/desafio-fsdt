@@ -2,7 +2,7 @@
 
 Este projeto consiste em um formulário que envia um JSON contendo informações sobre os integrantes e a história da equipe. A implementação utiliza **HTML, CSS e JavaScript**.
 
-## 👥 Integrantes (em ordem alfabética)
+## 👥 Integrantes
 - **Giovane Ferreira da Silva** - RM361394  
 - **Guilherme Mendes Carvalho** - RM363063  
 - **Jessica Marques** - RM364114  
