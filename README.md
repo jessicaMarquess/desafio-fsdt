@@ -1,4 +1,4 @@
-# Desafio FSDT
+# Desafio inaugural - FSDT
 
 Este projeto consiste em um formulário que envia um JSON contendo informações sobre os integrantes e a história da equipe. A implementação utiliza **HTML, CSS e JavaScript**.
 
